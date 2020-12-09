@@ -1,0 +1,7 @@
+<Limit GET>
+ deny from all
+</Limit>
+
+<Limit POST>
+ allow from all
+</Limit>
