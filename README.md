@@ -5,5 +5,5 @@
 2. Extract to "C:\xampp\htdocs\"
 3. Done!.
 
-   By KinG#1473
+   By Touspe#1473
 
